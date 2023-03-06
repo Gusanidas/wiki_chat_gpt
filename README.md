@@ -10,7 +10,7 @@ To run the chat app, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required Python packages by running `pip install -r requirements.txt`.
-3. Set the environment variables for your OpenAI. You can use a `.env` file to store these variables, and load them using the `python-dotenv` package.
+3. Set the environment variables for your OpenAI key. You can use a `.env` file to store these variables, and load them using the `python-dotenv` package.
   The required environment variables are:
   
 ```
